@@ -1,0 +1,1472 @@
+Need Help?
+ 
+Jack Lin
+ Home Instead Senior Care
+
+Dashboard Live ViewDaily - ClientsDaily - Caregivers Weekly - ClientsWeekly - CaregiversCare FinderOffice Calendar ClientsInitial CallProspectsReferral SourcesCaregivers ApplicantsReferral Sources AccountingBillingPayroll Receivables ReportsCustomCustom BETACharts and Dashboards
+Schedules (Future)
+Dashboard ? Reports ? Schedules (Future)
+PrintSaveEmail
+Report Type
+
+
+Select Profile Tags:
+
+ACH/EFT*
+Alzheimer's*
+Arthritis*
+Assisted Living*
+Call Client First*
+Call Family First*
+CHF (Heart Condition)*
+Companionship*
+COPD (Lung Condition)*
+Credit Card Payments*
+Declined Media Release*
+Dementia (other than Alz)*
+Diabetes*
+Double Client*
+Government Contract*
+Home Helper*
+Hospice*
+Hospital*
+Hospital Discharge*
+Independent Living*
+LTC*
+LTC Print Copy of Invoice*
+Mail Copy of Invoice*
+Mail Monthly Schedule*
+Medicaid Waiver*
+Memory Care*
+Monthly Billing*
+Nursing Home*
+On Call*
+Overnight*
+Parkinson's*
+PEAQ Opt Out*
+PEAQ Responsible Party*
+Personal Services*
+Print Copy of Invoice*
+Private Pay*
+Readmission*
+Regular Billing*
+Rehab*
+Rehab Discharge*
+Responsible Party - Family*
+Responsible Party - Guardian*
+Responsible Party - Self*
+Service Deposit*
+Special Instructions*
+Specialized Services*
+Standby*
+Traditional Home*
+Transporation*
+VA Waiver*
+Period:
+ 
+ to  
+ Group By Date
+Group By:
+ Client
+ Caregiver
+Clients:
+ Select all
+
+ Amin, Bhanu
+ Basu, Lalit
+ Begin, Janet
+ Bosworth, William
+ Brown, David R
+ Brown, David R.
+ Carano, Aldo
+ Carrington, Dennis
+ Connelly, Juanita
+ Dana, Mary
+ Davidson, Alice
+ Debeaux, Robin
+ Dickerson, Margie
+ Garavatti, Rose
+ Gearhart, James W.
+ Ghani, Annes
+ Gregg, Dolorece
+ Grist, Susan
+ Hill, Shirley
+ Johnston, Florence
+ Kitayama, Kimi
+ Komo, Cyrus
+ Maestas, Josephine
+ Mailolo, Rosa
+ McGee, Kathy
+ Meade, Margaret "Peggy"
+ Mott, JoAnn
+ Moyer, Jeanette
+ Noland, Henry (Hank)
+ Ogilvie, Ruth
+ Owen, Duane
+ Paredez, Ernestine
+ Parker, Harry
+ Rose, Dolores
+ Rose, Elizabeth
+ Roya, Lawrence
+ Schukle, Tom
+ Sevilla, Anastacio
+ Shi, Ching-chia
+ Stansell, Debbie
+ Stefani, Roy
+ Thorn, Vyolette
+ Verma, Shyam "Sam"
+ Wadhwani, Gulab
+
+Schedules by Client
+Date Range: 12/01/2014 - 12/31/2014
+Basu, Lalit
+Address: 448 Bunker ln, Pleasanton, CA 94566
+E-mail Address: mbasu4@comcast.net
+Home Phone: (925) 353-4986
+Date/Time	Activity	Hours
+12/01/2014	Stephan, Ana: 10:00 AM - 1:00 PM	3
+12/03/2014	Stephan, Ana: 10:00 AM - 1:30 PM	3.5
+Brush teeth	
+Change bed linens	
+Clean bathroom	
+Clear dishes	
+Do dishes	
+Do laundry	
+Make bed	
+Medication reminder	
+Prepare lunch	
+Prepare meal	
+Shave client	
+Walk with client	
+12/05/2014	Stephan, Ana: 9:45 AM - 1:45 PM	4
+Brush teeth	
+Change bed linens	
+Clean bathroom	
+Clear dishes	
+Do dishes	
+Do laundry	
+Make bed	
+Medication reminder	
+Prepare lunch	
+Prepare meal	
+Shave client	
+Walk with client	
+12/12/2014	Stephan, Ana: 10:00 AM - 12:15 PM	2.25
+Brush teeth	
+Change bed linens	
+Clean bathroom	
+Clear dishes	
+Do dishes	
+Do laundry	
+Make bed	
+Medication reminder	
+Prepare lunch	
+Prepare meal	
+Shave client	
+Walk with client	
+12/15/2014	Stephan, Ana: 10:00 AM - 12:30 PM	2.5
+Brush teeth	
+Change bed linens	
+Clean bathroom	
+Clear dishes	
+Do dishes	
+Do laundry	
+Make bed	
+Medication reminder	
+Prepare lunch	
+Prepare meal	
+Shave client	
+Walk with client	
+12/19/2014	Stephan, Ana: 10:00 AM - 11:00 AM	1
+Brush teeth	
+Change bed linens	
+Clean bathroom	
+Clear dishes	
+Do dishes	
+Do laundry	
+Make bed	
+Medication reminder	
+Prepare lunch	
+Prepare meal	
+Shave client	
+Walk with client	
+Total Hours for Basu, Lalit:	 16.25
+Begin, Janet
+Address: 35119 Garcia St, Union City, CA 94587
+
+Mobile Phone: (510) 952-9256
+Date/Time	Activity	Hours
+12/01/2014	Tapia, Christal: 8:15 PM - 10:15 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/02/2014	Delgado, Rechelle: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/03/2014	C, Shannon: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/04/2014	Solis, Gladys: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/05/2014	Solis, Gladys: 7:45 PM - 10:00 PM	2.25
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/06/2014	Solis, Gladys: 7:45 PM - 10:00 PM	2.25
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/07/2014	Dargiene, Lina: 11:15 AM - 1:00 PM	1.75
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/07/2014	Solis, Gladys: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/08/2014	Solis, Gladys: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/09/2014	Moyer, Jazmin: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/10/2014	Cataag, Lourdes: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/11/2014	Solis, Gladys: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/12/2014	Solis, Gladys: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/13/2014	Solis, Gladys: 8:00 PM - 10:00 PM	2
+Bathe the client	
+Make sure her diaper is clean and dry before leaving	
+Shampoo hair	
+Walk with client	
+12/14/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/15/2014	Cataag, Lourdes: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/16/2014	Cataag, Lourdes: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/17/2014	Cataag, Lourdes: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/18/2014	Cruz, Jessica: 9:45 AM - 6:00 PM	8.25
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/19/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/20/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/21/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/22/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/23/2014	Cataag, Lourdes: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/24/2014	Cataag, Lourdes: 10:00 AM - 5:00 PM	7
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/24/2014	Cataag, Lourdes: 5:00 PM - 6:00 PM	1
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/25/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/26/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/27/2014	Cataag, Lourdes: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/28/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/29/2014	Solis, Gladys: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/30/2014	Cataag, Lourdes: 10:00 AM - 6:00 PM	8
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/31/2014	Cataag, Lourdes: 10:00 AM - 5:00 PM	7
+Bathe the client	
+Shampoo hair	
+Walk with client	
+12/31/2014	Cataag, Lourdes: 5:00 PM - 6:00 PM	1
+Bathe the client	
+Shampoo hair	
+Walk with client	
+Total Hours for Begin, Janet:	 172.5
+Bosworth, William
+Address: 4550 Arroyo Road, Livermore, CA 94550
+E-mail Address: CLC1@bed.33000
+Work Phone: (925) 373-4700
+Date/Time	Activity	Hours
+12/01/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/04/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/08/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/11/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/15/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/18/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/22/2014	Johnson, Yolanda: 10:00 AM - 1:06 PM	3.1
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/25/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+12/29/2014	Johnson, Yolanda: 10:00 AM - 1:00 PM	3
+12:00 PM	Assist client with meal	
+buying for him	
+Walk with client	
+Total Hours for Bosworth, William:	 27.1
+Brown, David R.
+Address: 35048 Buckingham Court, Newark, CA 94560
+
+Home Phone: (510) 792-7755
+Date/Time	Activity	Hours
+12/01/2014	Bautista, Josephine: 9:45 AM - 2:00 PM	4.25
+Assist with dressing	
+Clean bathroom	
+Clean living area	
+Clear dishes	
+Do dishes	
+Do laundry	
+Empty trash	
+Make bed	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Total Hours for Brown, David R.:	 4.25
+Connelly, Juanita
+Address: 5344 Trio CT, Fremont, CA 94537
+
+Home Phone: (510) 656-7106
+Date/Time	Activity	Hours
+12/03/2014	Moyer, Jazmin: 11:00 AM - 2:00 PM	3
+Total Hours for Connelly, Juanita:	 3
+Dana, Mary
+Address: 3450 Mohr Ave., Pleasanton, CA 94588
+
+Home Phone: (925) 846-5711
+Date/Time	Activity	Hours
+12/01/2014	Bonifacio, Teresita: 8:30 AM - 12:45 PM	4.25
+12/02/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/03/2014	Bonifacio, Teresita: 8:30 AM - 12:00 PM	3.5
+12/04/2014	Bonifacio, Teresita: 8:30 AM - 1:00 PM	4.5
+12/05/2014	Bonifacio, Teresita: 8:30 AM - 12:00 PM	3.5
+12/06/2014	Bonifacio, Teresita: 8:30 AM - 12:15 PM	3.75
+12/08/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/09/2014	Bonifacio, Teresita: 8:30 AM - 12:45 PM	4.25
+12/10/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/11/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/12/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/13/2014	Bonifacio, Teresita: 9:30 AM - 12:30 PM	3
+12/15/2014	Bonifacio, Teresita: 8:45 AM - 1:00 PM	4.25
+12/16/2014	Bonifacio, Teresita: 8:30 AM - 12:45 PM	4.25
+12/17/2014	Bonifacio, Teresita: 8:30 AM - 12:45 PM	4.25
+12/18/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/19/2014	Bonifacio, Teresita: 8:30 AM - 12:45 PM	4.25
+12/20/2014	Bonifacio, Teresita: 8:30 AM - 11:45 AM	3.25
+12/22/2014	Bonifacio, Teresita: 8:30 AM - 12:45 PM	4.25
+12/23/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/24/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/25/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/26/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/27/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/29/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/30/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+12/31/2014	Bonifacio, Teresita: 8:30 AM - 12:30 PM	4
+Total Hours for Dana, Mary:	 107.25
+Davidson, Alice
+Address: 39939 Stevenson Common Apt.#1070 Avalon Communities Bldg. L, Fremont, CA 94538
+
+Home Phone: (510) 573-4694
+Date/Time	Activity	Hours
+12/01/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/03/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/04/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/05/2014	Kerr, Rilla Jane: 8:15 AM - 6:45 PM	10.5
+12/06/2014	Kerr, Rilla Jane: 8:30 AM - 5:45 PM	9.25
+12/08/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/10/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/11/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/12/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/13/2014	Kerr, Rilla Jane: 8:30 AM - 5:45 PM	9.25
+12/15/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/17/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/18/2014	Kerr, Rilla Jane: 8:45 AM - 6:15 PM	9.5
+12/19/2014	Kerr, Rilla Jane: 10:30 AM - 7:45 PM	9.25
+12/20/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/22/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/24/2014	Kerr, Rilla Jane: 8:30 AM - 5:00 PM	8.5
+12/24/2014	Kerr, Rilla Jane: 5:00 PM - 5:30 PM	0.5
+12/25/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/26/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/27/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/29/2014	Kerr, Rilla Jane: 8:30 AM - 5:30 PM	9
+12/31/2014	Kerr, Rilla Jane: 8:30 AM - 5:00 PM	8.5
+12/31/2014	Kerr, Rilla Jane: 5:00 PM - 5:30 PM	0.5
+Total Hours for Davidson, Alice:	 200.75
+Garavatti, Rose
+Address: 1240 ViaJose, Livermore, CA 94551
+
+Mobile Phone: (925) 997-5816
+Date/Time	Activity	Hours
+12/02/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/04/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/09/2014	Stephan, Ana: 10:45 AM - 3:00 PM	4.25
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/11/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/16/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/18/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/23/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+12/30/2014	Stephan, Ana: 11:00 AM - 3:00 PM	4
+Assist client with meal	
+Assist into and out of tub	
+Assist with dressing	
+Brush hair	
+Brush teeth	
+Clean bathroom	
+Do dishes	
+Do laundry	
+Empty trash	
+Grocery shopping	
+Make bed	
+Medication reminder	
+Shampoo hair	
+Walk with client	
+Total Hours for Garavatti, Rose:	 32.25
+Gearhart, James W.
+Address: 1225 Morrison Canyon Road, Fremont, CA 94539
+
+Home Phone: (510) 656-7703 Mobile Phone: (530) 525-0368
+Date/Time	Activity	Hours
+11/30/2014	Penaroyo, Arnold: 11/30/2014 2:00 PM - 12/01/2014 2:00 PM	24
+12/01/2014	Penaroyo, Arnold: 12/01/2014 2:00 PM - 12/02/2014 2:00 PM	24
+12/02/2014	Kison, Alfeo: 12/02/2014 2:00 PM - 12/03/2014 2:00 PM	24
+12/03/2014	Kison, Alfeo: 12/03/2014 2:00 PM - 12/04/2014 2:00 PM	24
+12/04/2014	Kison, Alfeo: 12/04/2014 2:00 PM - 12/05/2014 2:00 PM	24
+12/05/2014	Kison, Alfeo: 12/05/2014 2:00 PM - 12/06/2014 2:00 PM	24
+12/06/2014	Kison, Alfeo: 12/06/2014 2:00 PM - 12/07/2014 2:00 PM	24
+12/07/2014	Penaroyo, Arnold: 12/07/2014 2:00 PM - 12/08/2014 2:00 PM	24
+12/08/2014	Penaroyo, Arnold: 12/08/2014 2:00 PM - 12/09/2014 2:00 PM	24
+12/09/2014	Kison, Alfeo: 12/09/2014 2:00 PM - 12/10/2014 2:00 PM	24
+12/10/2014	Kison, Alfeo: 12/10/2014 2:00 PM - 12/11/2014 2:00 PM	24
+12/11/2014	Kison, Alfeo: 12/11/2014 2:00 PM - 12/12/2014 2:00 PM	24
+12/12/2014	Penaroyo, Arnold: 2:00 PM - 11:59 PM	10
+12/13/2014	Penaroyo, Arnold: 12/13/2014 12:00 AM - 12/14/2014 2:00 PM	38
+12/14/2014	Penaroyo, Arnold: 12/14/2014 2:00 PM - 12/15/2014 2:00 PM	24
+12/15/2014	Penaroyo, Arnold: 2:00 PM - 11:59 PM	10
+12/16/2014	Penaroyo, Arnold: 12:00 AM - 2:00 PM	14
+12/16/2014	Kison, Alfeo: 12/16/2014 2:00 PM - 12/17/2014 2:00 PM	24
+12/17/2014	Kison, Alfeo: 12/17/2014 2:00 PM - 12/18/2014 2:00 PM	24
+12/18/2014	Kison, Alfeo: 12/18/2014 2:00 PM - 12/19/2014 2:00 PM	24
+12/19/2014	Penaroyo, Arnold: 12/19/2014 2:00 PM - 12/20/2014 2:00 PM	24
+12/20/2014	Penaroyo, Arnold: 12/20/2014 2:00 PM - 12/21/2014 12:00 PM	22
+12/22/2014	Penaroyo, Arnold: 12/22/2014 2:00 PM - 12/23/2014 2:00 PM	24
+12/23/2014	Kison, Alfeo: 12/23/2014 2:00 PM - 12/24/2014 2:00 PM	24
+12/24/2014	Kison, Alfeo: 12/24/2014 2:00 PM - 12/25/2014 2:00 PM	24
+12/25/2014	Kison, Alfeo: 12/25/2014 2:00 PM - 12/26/2014 2:00 PM	24
+12/26/2014	Kison, Alfeo: 12/26/2014 2:00 PM - 12/27/2014 2:00 PM	24
+12/27/2014	Penaroyo, Arnold: 12/27/2014 2:00 PM - 12/28/2014 2:00 PM	24
+12/28/2014	Penaroyo, Arnold: 12/28/2014 2:00 PM - 12/29/2014 2:00 PM	24
+12/29/2014	Penaroyo, Arnold: 12/29/2014 2:00 PM - 12/30/2014 2:00 PM	24
+12/30/2014	Kison, Alfeo: 12/30/2014 2:00 PM - 12/31/2014 2:00 PM	24
+12/31/2014	Kison, Alfeo: 12/31/2014 2:00 PM - 01/01/2015 2:00 PM	24
+Total Hours for Gearhart, James W.:	 742
+Grist, Susan
+Address: 36286 Salisbury Drive, Newark, CA 94560
+
+Home Phone: (510) 796-3080
+Date/Time	Activity	Hours
+12/12/2014	C, Shannon: 1:30 PM - 2:30 PM	1
+12/12/2014	Cataag, Lourdes: 2:00 PM - 6:00 PM	4
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/12/2014	C, Shannon: 7:25 PM - 9:55 PM	2.5
+12/13/2014	Dargiene, Lina: 9:00 AM - 5:00 PM	8
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/14/2014	C, Shannon: 7:25 AM - 10:55 AM	3.5
+12/15/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/16/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/17/2014	Dargiene, Lina: 9:00 AM - 12:00 PM	3
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/17/2014	Moyer, Jazmin: 12:00 PM - 6:00 PM	6
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/18/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/19/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/20/2014	Cruz, Jessica: 9:00 AM - 4:00 PM	7
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/21/2014	Cruz, Jessica: 9:00 AM - 4:00 PM	7
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/22/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/23/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/24/2014	Cruz, Jessica: 9:00 AM - 1:00 PM	4
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/25/2014	Cordero, Felisa: 9:00 AM - 1:00 PM	4
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/26/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/27/2014	Cruz, Jessica: 9:00 AM - 4:00 PM	7
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/28/2014	Cruz, Jessica: 9:00 AM - 4:00 PM	7
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/29/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/30/2014	Dargiene, Lina: 9:00 AM - 6:00 PM	9
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+12/31/2014	Cruz, Jessica: 9:00 AM - 1:00 PM	4
+Assist with toileting	
+Bathe the client	
+Do dishes	
+Do laundry	
+Medication reminder	
+Prepare breakfast	
+Prepare lunch	
+Prepare snack	
+Put phone in reach	
+Take to toilet	
+Walk dog	
+Total Hours for Grist, Susan:	 149
+Johnston, Florence
+Address: 41815 Via San Miguel, Fremont, CA 94539
+
+Home Phone: (510) 657-0250
+Date/Time	Activity	Hours
+12/01/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/02/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/03/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/04/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/05/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/06/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/07/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/08/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/09/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/10/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/11/2014	Chapital, Noriko: 8:45 AM - 4:45 PM	8
+12/12/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/13/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/14/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/15/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/16/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/17/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/18/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/19/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/20/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/21/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/22/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/23/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/24/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/26/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/27/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/28/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+12/29/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/30/2014	Chapital, Noriko: 9:00 AM - 5:00 PM	8
+12/31/2014	Zazueta, Linda: 9:00 AM - 5:00 PM	8
+Total Hours for Johnston, Florence:	 240
+Kitayama, Kimi
+Address: 34217 Arizona Street, Union City, CA 94587
+
+Home Phone: (510) 471-3510
+Date/Time	Activity	Hours
+12/01/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/01/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/02/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/02/2014	Zazueta, Linda: 4:45 PM - 9:00 PM	4.25
+12/03/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/03/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/04/2014	Delgado, Rechelle: 10:00 AM - 3:00 PM	5
+12/04/2014	Stanley, Pearly: 11:00 AM - 11:30 AM	0.5
+12/04/2014	Zazueta, Linda: 5:00 PM - 9:00 PM	4
+12/05/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/05/2014	Zazueta, Linda: 5:00 PM - 9:00 PM	4
+12/06/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/06/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/07/2014	Solis, Gladys: 10:00 AM - 2:00 PM	4
+12/07/2014	Cataag, Lourdes: 5:00 PM - 9:00 PM	4
+12/08/2014	Cataag, Lourdes: 10:00 AM - 2:00 PM	4
+12/08/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/09/2014	Stanley, Pearly: 10:00 AM - 2:00 PM	4
+12/09/2014	Zazueta, Linda: 4:45 PM - 9:00 PM	4.25
+12/10/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/10/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/11/2014	Zazueta, Linda: 10:00 AM - 2:00 PM	4
+12/11/2014	Cataag, Lourdes: 5:00 PM - 9:00 PM	4
+12/12/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/14/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/15/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/15/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/16/2014	Zazueta, Linda: 10:00 AM - 2:00 PM	4
+12/16/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/17/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/17/2014	Solis, Gladys: 5:00 PM - 9:00 PM	4
+12/18/2014	Zazueta, Linda: 10:00 AM - 2:00 PM	4
+12/18/2014	Zazueta, Linda: 5:00 PM - 9:00 PM	4
+12/19/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/19/2014	Cataag, Lourdes: 5:00 PM - 9:00 PM	4
+12/20/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/20/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/21/2014	Copsey, Katie: 10:00 AM - 2:00 PM	4
+12/21/2014	Cataag, Lourdes: 5:00 PM - 9:00 PM	4
+12/22/2014	Cataag, Lourdes: 10:15 AM - 2:00 PM	3.75
+12/22/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/23/2014	Stanley, Pearly: 10:00 AM - 2:00 PM	4
+12/23/2014	Zazueta, Linda: 5:00 PM - 9:00 PM	4
+12/24/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/24/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/25/2014	Zazueta, Linda: 10:00 AM - 1:00 PM	3
+12/26/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/26/2014	Zazueta, Linda: 5:00 PM - 9:00 PM	4
+12/27/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/27/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/28/2014	Copsey, Katie: 10:00 AM - 2:00 PM	4
+12/28/2014	Cataag, Lourdes: 5:00 PM - 9:00 PM	4
+12/29/2014	Cataag, Lourdes: 10:00 AM - 2:00 PM	4
+12/29/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+12/30/2014	Stanley, Pearly: 10:00 AM - 2:00 PM	4
+12/30/2014	Zazueta, Linda: 5:00 PM - 9:00 PM	4
+12/31/2014	Delgado, Rechelle: 10:00 AM - 2:00 PM	4
+12/31/2014	Delgado, Rechelle: 5:00 PM - 9:00 PM	4
+Total Hours for Kitayama, Kimi:	 228.75
+Komo, Cyrus
+Address: 4566 Ellen Way, Union City, CA 94587
+
+Mobile Phone: (510) 304-2261
+Date/Time	Activity	Hours
+12/02/2014	Moyer, Jazmin: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/03/2014	Mingming, Janelle: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/04/2014	Mingming, Janelle: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/05/2014	Fetene, Worknesh: 3:00 PM - 6:00 PM	3
+Clean bathroom	
+Clean living area	
+12/10/2014	Cataag (Emmanuel), Apolinar: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/12/2014	Cataag (Emmanuel), Apolinar: 2:15 PM - 6:00 PM	3.75
+Clean bathroom	
+Clean living area	
+12/16/2014	Moyer, Jazmin: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/18/2014	Tapia, Christal: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/19/2014	Tapia, Christal: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/23/2014	Moyer, Jazmin: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/24/2014	Cataag (Emmanuel), Apolinar: 1:00 PM - 5:00 PM	4
+Clean bathroom	
+Clean living area	
+12/26/2014	Cataag (Emmanuel), Apolinar: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/30/2014	Moyer, Jazmin: 2:00 PM - 6:00 PM	4
+Clean bathroom	
+Clean living area	
+12/31/2014	Cataag (Emmanuel), Apolinar: 1:00 PM - 5:00 PM	4
+Clean bathroom	
+Clean living area	
+Total Hours for Komo, Cyrus:	 54.75
+Mailolo, Rosa
+Address: 41126 Ellen Street, Fremont, CA 94538
+
+Home Phone: (510) 490-3578
+Date/Time	Activity	Hours
+12/02/2014	Rhymes, Sandra: 8:00 AM - 11:30 AM	3.5
+12/04/2014	Rhymes, Sandra: 8:00 AM - 12:00 PM	4
+12/09/2014	Rhymes, Sandra: 8:00 AM - 12:00 PM	4
+12/16/2014	Rhymes, Sandra: 8:00 AM - 12:00 PM	4
+Total Hours for Mailolo, Rosa:	 15.5
+Meade, Margaret "Peggy"
+Address: 5588 Firestone Rd., Livermore, CA 94551
+
+Home Phone: (925) 456-0370
+Date/Time	Activity	Hours
+12/02/2014	Mara, Diane: 9:30 AM - 12:30 PM	3
+12/03/2014	Stromberg, Shirley: 9:30 AM - 12:30 PM	3
+12/04/2014	Mara, Diane: 9:30 AM - 12:30 PM	3
+12/09/2014	Mara, Diane: 9:30 AM - 12:30 PM	3
+12/10/2014	Stromberg, Shirley: 9:30 AM - 12:30 PM	3
+12/11/2014	Mara, Diane: 9:30 AM - 1:00 PM	3.5
+12/16/2014	Mara, Diane: 9:30 AM - 12:30 PM	3
+12/17/2014	Stromberg, Shirley: 9:30 AM - 12:30 PM	3
+12/18/2014	Mara, Diane: 9:30 AM - 1:00 PM	3.5
+12/30/2014	Mara, Diane: 9:30 AM - 12:30 PM	3
+12/31/2014	Stromberg, Shirley: 9:30 AM - 12:30 PM	3
+Total Hours for Meade, Margaret "Peggy":	 34
+Mott, JoAnn
+Address: 4915 Stafford Pl., Newark, CA 94560
+
+Home Phone: (510) 793-1715
+Date/Time	Activity	Hours
+11/30/2014	Cataag, Lourdes: 11/30/2014 7:00 PM - 12/01/2014 2:30 AM	7.5
+12/01/2014	Cataag, Lourdes: 12/01/2014 9:00 PM - 12/02/2014 7:00 AM	10
+12/02/2014	Cataag, Lourdes: 12/02/2014 5:15 PM - 12/03/2014 7:00 AM	13.75
+12/03/2014	Stanley, Pearly: 7:00 AM - 3:00 PM	8
+12/03/2014	Johnson, Yolanda: 3:00 PM - 9:00 PM	6
+12/03/2014	Cataag, Lourdes: 12/03/2014 9:00 PM - 12/04/2014 7:15 AM	10.25
+12/04/2014	Tapia, Christal: 7:15 AM - 2:00 PM	6.75
+12/04/2014	Cataag, Lourdes: 2:00 PM - 9:00 PM	7
+12/04/2014	Johnson, Yolanda: 12/04/2014 9:00 PM - 12/05/2014 7:00 AM	10
+12/05/2014	Stanley, Pearly: 7:15 AM - 2:00 PM	6.75
+12/05/2014	Dong, Sharon: 2:00 PM - 6:00 PM	4
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/05/2014	Dong, Sharon: 6:00 PM - 11:00 PM	5
+12/05/2014	Balino, Aileen: 12/05/2014 11:00 PM - 12/06/2014 7:00 AM	8
+12/06/2014	Dargiene, Lina: 7:00 AM - 4:45 PM	9.75
+12/06/2014	Domingo, Evelinda: 4:45 PM - 11:00 PM	6.25
+12/06/2014	Balino, Aileen: 12/06/2014 10:45 PM - 12/07/2014 7:00 AM	8.25
+12/07/2014	Domingo, Evelinda: 7:00 AM - 3:00 PM	8
+12/07/2014	Domingo, Evelinda: 3:00 PM - 9:00 PM	6
+12/07/2014	Johnson, Yolanda: 12/07/2014 9:00 PM - 12/08/2014 7:00 AM	10
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/08/2014	Stanley, Pearly: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/08/2014	Domingo, Evelinda: 2:00 PM - 9:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/08/2014	Johnson, Yolanda: 12/08/2014 9:00 PM - 12/09/2014 7:00 AM	10
+12/09/2014	Dargiene, Lina: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/09/2014	Domingo, Evelinda: 2:00 PM - 9:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/09/2014	Johnson, Yolanda: 12/09/2014 9:15 PM - 12/10/2014 7:00 AM	9.75
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/10/2014	Stanley, Pearly: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/10/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/11/2014	Moyer, Jazmin: 7:00 AM - 2:15 PM	7.25
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/12/2014	Dargiene, Lina: 6:45 AM - 2:30 PM	7.75
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/12/2014	Solis, Gladys: 2:45 PM - 7:00 PM	4.25
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/13/2014	Delgado, Rechelle: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/13/2014	Solis, Gladys: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/14/2014	Hooker, Denise: 7:00 AM - 3:00 PM	8
+12/14/2014	Johnson, Yolanda: 3:00 PM - 7:00 PM	4
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/15/2014	Hooker, Denise: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/15/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/16/2014	Hooker, Denise: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/16/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/17/2014	Hooker, Denise: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/17/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/18/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/19/2014	Dong, Sharon: 2:00 PM - 7:15 PM	5.25
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/20/2014	Dong, Sharon: 2:00 PM - 6:45 PM	4.75
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/21/2014	Johnson, Yolanda: 3:00 PM - 9:00 PM	6
+12/23/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/24/2014	Stanley, Pearly: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/25/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/26/2014	Stanley, Pearly: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/27/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/28/2014	Johnson, Yolanda: 3:00 PM - 9:00 PM	6
+12/29/2014	Stanley, Pearly: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/30/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/31/2014	Johnson, Yolanda: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+Total Hours for Mott, JoAnn:	 363.25
+Noland, Henry (Hank)
+Address: 39157 Delano Ct., Fremont, CA 94538
+
+Home Phone: (510) 793-6379
+Date/Time	Activity	Hours
+12/02/2014	Ervin, Cathy: 11:10 AM - 2:05 PM	2.92
+Brush hair	
+Brush teeth	
+Monitor dressing	
+Shave client	
+12/04/2014	Ervin, Cathy: 11:00 AM - 2:00 PM	3
+Brush hair	
+Brush teeth	
+Monitor dressing	
+Shave client	
+Total Hours for Noland, Henry (Hank):	 5.92
+Parker, Harry
+Address: 4670 Eggers Drive, Fremont, CA 94536
+
+Home Phone: (510) 792-2923
+Date/Time	Activity	Hours
+12/02/2014	Khoo, Keong "Richard": 10:00 AM - 4:00 PM	6
+12/04/2014	Khoo, Keong "Richard": 10:00 AM - 4:15 PM	6.25
+12/09/2014	Khoo, Keong "Richard": 10:00 AM - 4:30 PM	6.5
+12/11/2014	Khoo, Keong "Richard": 10:00 AM - 4:15 PM	6.25
+12/16/2014	Khoo, Keong "Richard": 10:00 AM - 4:45 PM	6.75
+12/18/2014	Khoo, Keong "Richard": 10:00 AM - 4:45 PM	6.75
+12/23/2014	Cataag (Emmanuel), Apolinar: 10:00 AM - 5:00 PM	7
+12/25/2014	Khoo, Keong "Richard": 10:00 AM - 5:00 PM	7
+12/30/2014	Khoo, Keong "Richard": 10:00 AM - 5:00 PM	7
+Total Hours for Parker, Harry:	 59.5
+Rose, Dolores
+Address: 4073 Mattos Drive, Fremont, CA 94536
+E-mail Address: niles1960@comcast.net
+Home Phone: (510) 797-3388
+Date/Time	Activity	Hours
+11/30/2014	Pryor, Nimfa: 11/30/2014 9:00 PM - 12/01/2014 8:00 AM	11
+12/01/2014	Copsey, Katie: 8:00 AM - 2:00 PM	6
+12/01/2014	Dong, Sharon: 2:00 PM - 9:00 PM	7
+12/01/2014	Anguiano, Lea: 12/01/2014 9:00 PM - 12/02/2014 6:15 AM	9.25
+12/02/2014	Copsey, Katie: 6:00 AM - 2:30 PM	8.5
+12/02/2014	Pryor, Nimfa: 2:30 PM - 5:00 PM	2.5
+12/02/2014	Dong, Sharon: 2:30 PM - 9:00 PM	6.5
+12/02/2014	Pryor, Nimfa: 12/02/2014 9:00 PM - 12/03/2014 8:15 AM	11.25
+12/03/2014	Zabat, Me'ven: 8:05 AM - 1:00 PM	4.92
+12/03/2014	Dong, Sharon: 1:00 PM - 9:00 PM	8
+12/03/2014	Copsey, Katie: 12/03/2014 9:00 PM - 12/04/2014 8:15 AM	11.25
+12/04/2014	Zabat, Me'ven: 8:00 AM - 2:00 PM	6
+12/04/2014	Moyer, Jazmin: 1:00 PM - 2:00 PM	1
+12/04/2014	Pryor, Nimfa: 1:15 PM - 1:45 PM	0.5
+Orientation with Jazmin	
+12/04/2014	Copsey, Katie: 2:00 PM - 9:00 PM	7
+12/04/2014	Pryor, Nimfa: 12/04/2014 9:00 PM - 12/05/2014 8:15 AM	11.25
+12/05/2014	Zabat, Me'ven: 8:00 AM - 3:00 PM	7
+12/05/2014	Copsey, Katie: 3:00 PM - 9:00 PM	6
+12/05/2014	Copsey, Katie: 12/05/2014 9:00 PM - 12/06/2014 10:00 AM	13
+12/06/2014	Moyer, Jazmin: 10:00 AM - 7:00 PM	9
+12/06/2014	Pryor, Nimfa: 12/06/2014 7:00 PM - 12/07/2014 8:15 AM	13.25
+12/07/2014	Delgado, Rechelle: 8:00 AM - 8:00 PM	12
+12/07/2014	Copsey, Katie: 12/07/2014 7:45 PM - 12/08/2014 8:00 AM	12.25
+12/08/2014	Dong, Sharon: 8:00 AM - 2:00 PM	6
+12/08/2014	Copsey, Katie: 2:00 PM - 9:00 PM	7
+12/08/2014	Anguiano, Lea: 12/08/2014 9:00 PM - 12/09/2014 6:00 AM	9
+12/09/2014	Dong, Sharon: 5:45 AM - 2:00 PM	8.25
+12/09/2014	Pryor, Nimfa: 2:00 PM - 4:00 PM	2
+12/09/2014	Copsey, Katie: 2:00 PM - 9:00 PM	7
+12/09/2014	Pryor, Nimfa: 12/09/2014 9:00 PM - 12/10/2014 8:00 AM	11
+12/10/2014	Copsey, Katie: 8:00 AM - 3:00 PM	7
+12/10/2014	Dong, Sharon: 3:00 PM - 9:00 PM	6
+12/10/2014	Anguiano, Lea: 12/10/2014 9:00 PM - 12/11/2014 6:15 AM	9.25
+12/11/2014	Zabat, Me'ven: 6:15 AM - 3:00 PM	8.75
+12/11/2014	Copsey, Katie: 3:00 PM - 9:00 PM	6
+12/11/2014	Pryor, Nimfa: 12/11/2014 9:00 PM - 12/12/2014 8:00 AM	11
+12/12/2014	Zabat, Me'ven: 8:00 AM - 2:00 PM	6
+12/12/2014	Dong, Sharon: 2:00 PM - 9:00 PM	7
+12/12/2014	Dong, Sharon: 12/12/2014 9:00 PM - 12/13/2014 8:00 AM	11
+12/13/2014	Dong, Sharon: 8:00 AM - 2:00 PM	6
+12/13/2014	Dong, Sharon: 2:00 PM - 9:00 PM	7
+12/13/2014	Pryor, Nimfa: 12/13/2014 9:00 PM - 12/14/2014 8:00 AM	11
+12/14/2014	Clark, Brenda: 8:00 AM - 2:00 PM	6
+12/14/2014	Dong, Sharon: 2:00 PM - 9:00 PM	7
+12/14/2014	Anguiano, Lea: 12/14/2014 9:00 PM - 12/15/2014 6:30 AM	9.5
+12/15/2014	Dong, Sharon: 6:00 AM - 2:00 PM	8
+12/15/2014	Moyer, Jazmin: 2:00 PM - 9:00 PM	7
+12/15/2014	Anguiano, Lea: 12/15/2014 9:00 PM - 12/16/2014 6:00 AM	9
+12/16/2014	Dong, Sharon: 6:00 AM - 2:45 PM	8.75
+12/16/2014	Pryor, Nimfa: 2:45 PM - 4:45 PM	2
+12/16/2014	Copsey, Katie: 2:45 PM - 9:00 PM	6.25
+12/16/2014	Pryor, Nimfa: 12/16/2014 9:00 PM - 12/17/2014 8:00 AM	11
+12/17/2014	Zabat, Me'ven: 8:00 AM - 3:00 PM	7
+12/17/2014	Dong, Sharon: 3:00 PM - 9:00 PM	6
+12/17/2014	Anguiano, Lea: 12/17/2014 9:00 PM - 12/18/2014 6:15 AM	9.25
+12/18/2014	Dong, Sharon: 6:00 AM - 2:00 PM	8
+12/18/2014	Copsey, Katie: 2:00 PM - 9:00 PM	7
+12/18/2014	Pryor, Nimfa: 12/18/2014 9:00 PM - 12/19/2014 8:00 AM	11
+12/19/2014	Zabat, Me'ven: 8:00 AM - 2:15 PM	6.25
+12/19/2014	Delgado, Rechelle: 2:15 PM - 9:00 PM	6.75
+12/19/2014	Dong, Sharon: 12/19/2014 9:00 PM - 12/20/2014 8:00 AM	11
+12/20/2014	Copsey, Katie: 8:00 AM - 7:00 PM	11
+12/20/2014	Dong, Sharon: 12/20/2014 7:00 PM - 12/21/2014 8:00 AM	13
+12/21/2014	Dong, Sharon: 8:00 AM - 3:00 PM	7
+12/21/2014	Copsey, Katie: 3:00 PM - 9:00 PM	6
+12/21/2014	Pryor, Nimfa: 12/21/2014 9:00 PM - 12/22/2014 8:00 AM	11
+12/22/2014	Zabat, Me'ven: 7:45 AM - 2:00 PM	6.25
+12/22/2014	Copsey, Katie: 2:00 PM - 9:00 PM	7
+12/22/2014	Anguiano, Lea: 12/22/2014 9:00 PM - 12/23/2014 6:00 AM	9
+12/23/2014	Dong, Sharon: 6:00 AM - 2:00 PM	8
+12/23/2014	Delgado, Rechelle: 2:00 PM - 9:00 PM	7
+12/23/2014	Pryor, Nimfa: 12/23/2014 9:00 PM - 12/24/2014 8:00 AM	11
+12/24/2014	Dong, Sharon: 12/24/2014 8:00 AM - 12/25/2014 8:00 AM	24
+12/25/2014	Dong, Sharon: 8:00 AM - 9:00 PM	13
+12/25/2014	Pryor, Nimfa: 12/25/2014 9:00 PM - 12/26/2014 8:00 AM	11
+12/26/2014	Zabat, Me'ven: 8:00 AM - 2:00 PM	6
+12/26/2014	Dong, Sharon: 12/26/2014 2:00 PM - 12/27/2014 8:00 AM	18
+12/27/2014	Moyer, Jazmin: 8:00 AM - 6:00 PM	10
+12/27/2014	Dong, Sharon: 12/27/2014 6:00 PM - 12/28/2014 8:00 AM	14
+12/28/2014	Moyer, Jazmin: 8:00 AM - 6:00 PM	10
+12/28/2014	Dong, Sharon: 12/28/2014 6:00 PM - 12/29/2014 8:00 AM	14
+12/29/2014	Zabat, Me'ven: 8:00 AM - 2:00 PM	6
+12/29/2014	Moyer, Jazmin: 2:00 PM - 9:00 PM	7
+12/29/2014	Anguiano, Lea: 12/29/2014 9:00 PM - 12/30/2014 6:00 AM	9
+12/30/2014	Zabat, Me'ven: 6:00 AM - 2:00 PM	8
+12/30/2014	Delgado, Rechelle: 2:00 PM - 9:00 PM	7
+12/30/2014	Anguiano, Lea: 12/30/2014 9:00 PM - 12/31/2014 6:00 AM	9
+12/31/2014	Copsey, Katie: 6:00 AM - 2:00 PM	8
+12/31/2014	Moyer, Jazmin: 2:00 PM - 9:00 PM	7
+12/31/2014	Anguiano, Lea: 12/31/2014 9:00 PM - 01/01/2015 8:00 AM	11
+Total Hours for Rose, Dolores:	 765.67
+Stefani, Roy
+Address: 111 Northwood Commons, Livermore, CA 94551
+
+Home Phone: (925) 294-8604 Mobile Phone: (209) 815-5127
+Date/Time	Activity	Hours
+12/09/2014	Domingo, Evelinda: 12/09/2014 10:00 PM - 12/10/2014 3:00 AM	5
+Total Hours for Stefani, Roy:	 5
+Thorn, Vyolette
+Address: 4585 De Silva St., Fremont, CA 94538
+
+Mobile Phone: (510) 386-4614
+Date/Time	Activity	Hours
+12/02/2014	Moyer, Jazmin: 10:15 AM - 12:00 PM	1.75
+12/04/2014	Cataag, Lourdes: 10:00 AM - 12:15 PM	2.25
+12/06/2014	Cataag, Lourdes: 10:00 AM - 12:00 PM	2
+12/09/2014	Cataag, Lourdes: 10:00 AM - 12:00 PM	2
+12/11/2014	Cataag, Lourdes: 10:15 AM - 12:00 PM	1.75
+12/13/2014	Cataag, Lourdes: 10:00 AM - 12:00 PM	2
+12/16/2014	Zabat, Me'ven: 10:00 AM - 10:30 AM	0.5
+12/18/2014	Cataag, Lourdes: 10:00 AM - 12:15 PM	2.25
+12/20/2014	Cataag, Lourdes: 12:00 PM - 12:00 PM	0
+12/22/2014	Cataag, Lourdes: 8:00 AM - 9:45 AM	1.75
+12/24/2014	Cataag, Lourdes: 7:45 AM - 9:45 AM	2
+12/27/2014	Cataag, Lourdes: 7:45 AM - 9:45 AM	2
+12/29/2014	Cataag, Lourdes: 7:45 AM - 9:45 AM	2
+12/31/2014	Cataag, Lourdes: 7:45 AM - 9:45 AM	2
+Total Hours for Thorn, Vyolette:	 24.25
+Powered By ClearCare Inc. | Demo Page

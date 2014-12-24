@@ -1,6 +1,8 @@
 # This program help to find  all shifts less than assigned time length.
 
 require 'time'
+
+
 min=7200  #minimal shift time is 2hr in seconds
 
 # method for parsing text into time stamps. dried from ReFormatter003
@@ -34,13 +36,19 @@ File.readlines(reports).each do |line|
 		duration=endTime-startTime
 		
 		if duration < min
-			puts "\n#{cg}'s shift on #{shift_date} starting #{startTime.strftime("%l:%M%p")} is only #{duration}!"
+		
+#http://stackoverflow.com/questions/2310197/how-to-convert-270921sec-into-days-hours-minutes-sec-ruby
+#copy from Mike's solution using divmod methods			
+			dhms = [60,60,24].reduce([duration]) { |m,o| m.unshift(m.shift.divmod(o)).flatten }
+		  
+			puts "\n#{cg}'s shift on #{shift_date} starting #{startTime.strftime("%l:%M%p")} is only #{dhms[1]}hr #{dhms[2]}min!"
+			
 		else
 		  print "."
 		end
   end
 end
-puts "press Enter to quit"
+puts "\nAll shifts checked, please press Enter to quit"
 gets
 
 #http://apidock.com/rails/ActionView/Helpers/DateHelper/distance_of_time_in_words

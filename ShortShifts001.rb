@@ -26,7 +26,7 @@ end
 reports='New Text Document.txt' #This is the name of the Clear Care report-schedule(future) pure text file name
 
 # Start parsing lines containing shifts
-
+puts "\nStart Checking\n"
 File.readlines(reports).each do |line|
 
 	if line =~ /^(\d{2})\/(\d{2})\/(\d{4})/
@@ -48,7 +48,7 @@ File.readlines(reports).each do |line|
 		end
   end
 end
-puts "\nAll shifts checked, please press Enter to quit"
+puts "\nEnd Checking, please press Enter to quit"
 gets
 
 #http://apidock.com/rails/ActionView/Helpers/DateHelper/distance_of_time_in_words

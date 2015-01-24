@@ -3,23 +3,20 @@
 <body>
 <h1>Let's check overlapping and short shifts!</h1><h3><A HREF="javascript:history.go(0)">(Page reload is required to recheck!)</A></h3><hr>
 
-<p> Here are the default setting:<br>
-  Endorsement(overlapping) time is
+<p> Here are the default settings:<br>
+ Maximum endorsement(overlapping) time is
 <input type="number" id="endorsement" value=15> minutes, <!-- maximum overlapping shift time in minutes -->
 and a shift is short if less than
 <input type="number" id="minimum" value=120> minutes.
 </p>  <!-- minimum shift time in minutes -->
 
-<h2>Paste Report Schedules (Future) below:</h2>
-<textarea id="inputTextarea">Ctrl-A and Ctrl-C in CC report and Ctrl-P here.</textarea>
+<h2>Paste Report Schedules (Future) in the box below:</h2>
+<textarea id="inputTextarea" placeholder="Ctrl-A and Ctrl-C in CC report and Ctrl-P here."></textarea>
 <button type="button" onclick="shortshift()">Check it</button>
 <hr>
 <p id="output"></p>
 
 <script>
-
-
-// rewrite of Ruby's shift check subroutine
 
 function read_shift(single_line){
   shift_date=single_line.split(',')[0].split(' ')[0].substring(0,10);
@@ -53,7 +50,7 @@ var lshift_date=read_shift(origin)[0], lcg=read_shift(origin)[1], lstartTime=rea
 function shortshift() {
   var minimum     = document.getElementById("minimum").value * 60;  // minimal shift time is 2hr in seconds
   var endorsement =  document.getElementById("endorsement").value * 60;
-  output += "<h4>You set "+endorsement/60+" minutes for maximum endorsement(overlapping), and minimum of "+minimum/60+" minutes for shift minimum time</h4>" ;
+  output += "<h4>You set "+endorsement/60+" minutes for the maximum endorsement(overlapping) time, and "+minimum/60+" minutes for the shift minimum time</h4>" ;
   var input = document.getElementById("inputTextarea").value;
   input = input.split(/\r?\n/);
 // Start parsing lines containing shifts
@@ -78,11 +75,12 @@ function shortshift() {
     lshift_date = shift_date, lcg = cg, lstartTime = startTime, lendTime = endTime;  //make the current shift as the last shift.
     output += ".";
     }
-  if ( /^Address:/.test(input[i]) ) {   // clients separator
-    lshift_date=read_shift(origin)[0], lcg=read_shift(origin)[1], lstartTime=read_shift(origin)[2], lendTime = read_shift(origin)[3]  //defining system start as the last shift for different clients.
+    if ( /^Address:/.test(input[i]) ) {   // clients separator
+      lshift_date=read_shift(origin)[0], lcg=read_shift(origin)[1], lstartTime=read_shift(origin)[2], lendTime = read_shift(origin)[3]  //defining system start as the last shift for different clients.
+    }
   }
+  output += "<h4>End Checking, please reload the page for rechecking.<h4>"
   document.getElementById("output").innerHTML = output;
-}
 }
 
 // for JS array addition

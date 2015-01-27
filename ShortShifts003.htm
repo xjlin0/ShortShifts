@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html> <body bgcolor="#CCCCFF"> <font face="sans-serif">
 <body>
 <h1>Let's check overlapping and short shifts!</h1><h3><A HREF="javascript:history.go(0)">(Page reload is required for recheck!)</A></h3><hr>
 
@@ -26,8 +26,10 @@ The checked result will be shown here.  Please make sure you see the beginning l
 
 By default this program checks for all short shifts which are less than 120 minutes, and the shifts overlapped for more than 15 minutes.  You can change such default settings at the top of the page before clicking the "Check it" button.
 </p>
-
+<hr><p id="version"></p>
 <script>
+var progVer = document.URL.split('/').slice(-1)[0];
+document.getElementById("version").innerHTML = "Author: Jack@HISC-291, Program information: "+progVer;
 
 function read_shift(single_line){
   shift_date=single_line.split(',')[0].split(' ')[0].substring(0,10);

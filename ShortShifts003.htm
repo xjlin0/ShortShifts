@@ -29,7 +29,7 @@ By default this program checks for all short shifts which are less than 120 minu
 <hr><p id="version"></p>
 <script>
 var progVer = document.URL.split('/').slice(-1)[0];
-document.getElementById("version").innerHTML = "Author: Jack@HISC-291, Program information: "+progVer;
+document.getElementById("version").innerHTML = "Author: Jack@HISC-291, Program information: patched in 2015 Sep. of "+progVer;
 
 function read_shift(single_line){
   shift_date=single_line.split(',')[0].split(' ')[0].substring(0,10);
@@ -68,7 +68,7 @@ function shortshift() {
   input = input.split(/\r?\n/);
 // Start parsing lines containing shifts
   for (var i in input){
-    if ( /^(\d{2})\/(\d{2})\/(\d{4})/.test(input[i]) ) {
+    if ( /^(\d{2})\/(\d{2})\/(\d{4})/.test(input[i]) && input[i].length > 12) {
       var shifts = input[i];
       var shift_date = read_shift(shifts)[0], cg = read_shift(shifts)[1], startTime = read_shift(shifts)[2], endTime = read_shift(shifts)[3] // parsing current shift time
       // output += shifts + "<br>";

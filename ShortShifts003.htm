@@ -1,101 +1,118 @@
 <!DOCTYPE html>
-<html> <title>ShortShifts</title> <body bgcolor="#CCCCFF"> <font face="sans-serif">
-<noscript><h1><font color="red">This program won't work with JavaScript disabled!</font></h1></noscript>
-<h1>Let's check overlapping and short shifts!</h1><h3><A HREF="javascript:history.go(0)">(Page reload is required for recheck!)</A></h3><hr>
+<html lang="en-US">
+<head>
+<title>ShortShifts</title>
+<meta http-equiv='cache-control' content='no-cache'>
+<meta http-equiv='expires' content='0'>
+<meta http-equiv='pragma' content='no-cache'>
+</head>
+<body bgcolor="#CCCCFF">
+    <font face="sans-serif">
+        <noscript>
+            <h1><font color="red">This program won't work with JavaScript disabled!</font></h1></noscript>
+        <h1>Let's check overlapping and short shifts!</h1>
+        <h3><A HREF="javascript:history.go(0)">(Page reload is required for recheck!)</A></h3>
+        <hr>
+        <p> Default settings: Maximum endorsement(overlapping) time is
+            <input type="number" id="endorsement" value=15> minutes,
+            <!-- maximum overlapping shift time in minutes -->
+            and a shift is short if less than
+            <input type="number" id="minimum" value=120> minutes.
+        </p>
+        <!-- minimum shift time in minutes -->
+        <h2>Paste <i>Report</i> <u>Schedules (Future)</u> in the box below:</h2>
+        <textarea id="inputTextarea" cols=70 rows=5 placeholder="Ctrl-A and Ctrl-C in CC report and Ctrl-P here."></textarea>
+        <button type="button" onclick="shortshift()">Check it</button>
+        <hr>
+        <p id="output">
+            <h3>How to use:</h3> In CC, click on the <b>Reports</b> tab (not any submenu below), select <b>Schedules(Future)</b> as the report type. Select the range of the date you want, say, current or previous month or cycle, and select "all clients" then click "Show Report" button.
+            <br>
+            <br>
+            <u><b><i>Caution: Please ensure your setting of "Group By:" is "Client", otherwise the program will show incorrect results!</i></b></u>
+            <br>
+            <br> Once the CC report shown, select all and copy all (Ctrl-A and Ctrl-C will do). Come back to this tab and paste everything(Ctrl-P) in the text box above (box size doesn't matter), then click the "Check it" button, it will check all shifts in the range you select.
+            <br>
+            <br> The checked result will be shown here. Please make sure you see the beginning line of "Start Checking" and the end line of "End Checking...." by scrolling the window if necessary. If you need to adjust shifts and come back for rechecking, please refresh the page first.
+            <br>
+            <br> By default this program checks for all short shifts which are less than 120 minutes, and the shifts overlapped for more than 15 minutes. You can change such default settings at the top of the page before clicking the "Check it" button.
+        </p>
+        <hr>
+        <p id="version"></p>
+        <script>
+        var progVer = document.URL.split('/').slice(-1)[0];
+        document.getElementById("version").innerHTML = "Author: Jack@HISC-291, Program information: patched in 2015 Sep. of " + progVer;
 
-<p> Default settings:
- Maximum endorsement(overlapping) time is
-<input type="number" id="endorsement" value=15> minutes, <!-- maximum overlapping shift time in minutes -->
-and a shift is short if less than
-<input type="number" id="minimum" value=120> minutes.
-</p>  <!-- minimum shift time in minutes -->
+        function read_shift(single_line) {
+            shift_date = single_line.split(',')[0].split(' ')[0].substring(0, 10);
+            shift = single_line.split(',')[1];
+            cg = shift.split(':')[0].substring(1);
+            shift_start = shift.split('-')[0].split(':');
+            if (/(\d{2})\/(\d{2})\/(\d{4})/.test(shift)) {
+                startTime = Date.parse(shift_start[1] + ":" + shift_start[2]) / 1000;
+                endTime = Date.parse(shift.split('-')[1].substring(1).split('M')[0] + "M") / 1000;
+            } else {
+                startTime = Date.parse(shift_date + shift_start[1] + ":" + shift_start[2]) / 1000;
+                endTime = Date.parse(shift_date + shift.split('-')[1].split('M')[0] + "M") / 1000;
+            }
+            return [shift_date, cg, startTime, endTime];
+        }
 
-<h2>Paste <i>Report</i> <u>Schedules (Future)</u> in the box below:</h2>
-<textarea id="inputTextarea" cols=70 rows=5 placeholder="Ctrl-A and Ctrl-C in CC report and Ctrl-P here."></textarea>
-<button type="button" onclick="shortshift()">Check it</button>
-<hr>
-<p id="output">
-<h3>How to use:</h3>
-In CC, click on the <b>Reports</b> tab (not any submenu below),  select <b>Schedules(Future)</b> as the report type. Select the range of the date you want, say, current or previous month or cycle, and select "all clients" then click "Show Report" button.<br><br>
+        function dhmsCalc(seconds) { // no divmod in JS.
+            var sec = seconds % 60;
+            var rem = ~~(seconds / 60);
+            var min = rem % 60;
+            rem = ~~(rem / 60);
+            var hrs = rem % 24;
+            var day = ~~(rem / 24);
+            return [day, hrs, min, sec];
+        }
 
-<u><b><i>Caution: Please ensure your setting of "Group By:" is "Client", otherwise the program will show incorrect results!</i></b></u><br><br>
+        var origin = "07/31/2014  John, Doe: 9:00 AM - 4:00 PM"; // defining system start.
+        var output = "<h3>Start checking, each dot represent a shift. <u>Time is in 24hr format.</u></h3>";
+        var lshift_date = read_shift(origin)[0],
+            lcg = read_shift(origin)[1],
+            lstartTime = read_shift(origin)[2],
+            lendTime = read_shift(origin)[3];
 
-Once the CC report shown, select all and copy all (Ctrl-A and Ctrl-C will do).  Come back to this tab and paste everything(Ctrl-P) in the text box above (box size doesn't matter), then click the "Check it" button,  it will check all shifts in the range you select.<br><br>
+        function shortshift() {
+            var minimum = document.getElementById("minimum").value * 60; // minimal shift time is 2hr in seconds
+            var endorsement = document.getElementById("endorsement").value * 60;
+            output += "<h4>You set " + endorsement / 60 + " minutes for the maximum endorsement(overlapping) time, and " + minimum / 60 + " minutes for the shift minimum time</h4>";
+            var input = document.getElementById("inputTextarea").value;
+            input = input.split(/\r?\n/);
+            // Start parsing lines containing shifts
+            for (var i in input) {
+                if (/^(\d{2})\/(\d{2})\/(\d{4})/.test(input[i]) && input[i].length > 12) {
+                    var shifts = input[i];
+                    var shift_date = read_shift(shifts)[0],
+                        cg = read_shift(shifts)[1],
+                        startTime = read_shift(shifts)[2],
+                        endTime = read_shift(shifts)[3] // parsing current shift time
+                        // output += shifts + "<br>";
+                        // output += read_shift(shifts) + "<br>";
 
-The checked result will be shown here.  Please make sure you see the beginning line of "Start Checking" and the end line of "End Checking...." by scrolling the window if necessary.  If you need to adjust shifts and come back for rechecking, please refresh the page first.<br><br>
+                    var duration = endTime - startTime // calculate shift duration in seconds
 
-By default this program checks for all short shifts which are less than 120 minutes, and the shifts overlapped for more than 15 minutes.  You can change such default settings at the top of the page before clicking the "Check it" button.
-</p>
-<hr><p id="version"></p>
-<script>
-var progVer = document.URL.split('/').slice(-1)[0];
-document.getElementById("version").innerHTML = "Author: Jack@HISC-291, Program information: patched in 2015 Sep. of "+progVer;
+                    if (duration < minimum) { // detect shoft shifts
+                        var dhms = dhmsCalc(duration);
+                        output += "<br>" + cg + "'s shift on " + shift_date + " starting " + (new Date(startTime * 1000)).toTimeString().substring(0, 5) + " is only " + dhms[1] + " hr " + dhms[2] + " min!<br><br>";
+                    }
 
-function read_shift(single_line){
-  shift_date=single_line.split(',')[0].split(' ')[0].substring(0,10);
-       shift=single_line.split(',')[1];
-          cg=shift.split(':')[0].substring(1);
- shift_start=shift.split('-')[0].split(':');
- if ( /(\d{2})\/(\d{2})\/(\d{4})/.test(shift) ){
-  startTime = Date.parse(shift_start[1]+":"+shift_start[2])/1000;
-  endTime   = Date.parse(shift.split('-')[1].substring(1).split('M')[0]+"M")/1000;
- }else{
-  startTime = Date.parse(shift_date+shift_start[1]+":"+shift_start[2])/1000;
-  endTime   = Date.parse(shift_date+shift.split('-')[1].split('M')[0]+"M")/1000;
- }
- return [shift_date, cg, startTime, endTime];
-}
+                    if (startTime < (lendTime - endorsement)) { //detect overlapped shifts
+                        output += "<br>" + cg + "'s shift on " + shift_date + " starting " + (new Date(startTime * 1000)).toTimeString().substring(0, 5) + " overlapped with " + lcg + " 's shift on " + lshift_date + " starting " + (new Date(lstartTime * 1000)).toTimeString().substring(0, 5) + " for more than " + endorsement / 60 + " minutes!<br><br>";
+                    }
 
-function dhmsCalc(seconds){   // no divmod in JS.
-  var sec = seconds % 60;
-  var rem = ~~( seconds / 60);
-  var min = rem % 60;
-      rem = ~~( rem / 60 );
-  var hrs = rem % 24;
-  var day = ~~(rem / 24);
-  return [day, hrs, min, sec];
-}
-
-var origin = "07/31/2014  John, Doe: 9:00 AM - 4:00 PM"; // defining system start.
-var output="<h3>Start checking, each dot represent a shift. <u>Time is in 24hr format.</u></h3>";
-var lshift_date=read_shift(origin)[0], lcg=read_shift(origin)[1], lstartTime=read_shift(origin)[2], lendTime=read_shift(origin)[3];
-
-function shortshift() {
-  var minimum     = document.getElementById("minimum").value * 60;  // minimal shift time is 2hr in seconds
-  var endorsement =  document.getElementById("endorsement").value * 60;
-  output += "<h4>You set "+endorsement/60+" minutes for the maximum endorsement(overlapping) time, and "+minimum/60+" minutes for the shift minimum time</h4>" ;
-  var input = document.getElementById("inputTextarea").value;
-  input = input.split(/\r?\n/);
-// Start parsing lines containing shifts
-  for (var i in input){
-    if ( /^(\d{2})\/(\d{2})\/(\d{4})/.test(input[i]) && input[i].length > 12) {
-      var shifts = input[i];
-      var shift_date = read_shift(shifts)[0], cg = read_shift(shifts)[1], startTime = read_shift(shifts)[2], endTime = read_shift(shifts)[3] // parsing current shift time
-      // output += shifts + "<br>";
-      // output += read_shift(shifts) + "<br>";
-
-      var duration = endTime - startTime  // calculate shift duration in seconds
-
-      if ( duration < minimum ) {   // detect shoft shifts
-        var dhms = dhmsCalc(duration);
-        output += "<br>" + cg + "'s shift on "+shift_date+" starting "+(new Date(startTime*1000)).toTimeString().substring(0,5)+" is only "+dhms[1]+" hr "+dhms[2]+" min!<br><br>";
-      }
-
-      if ( startTime < (lendTime - endorsement) ) {  //detect overlapped shifts
-        output += "<br>" + cg + "'s shift on "+shift_date+" starting "+(new Date(startTime*1000)).toTimeString().substring(0,5)+" overlapped with "+ lcg + " 's shift on "+lshift_date+" starting "+(new Date(lstartTime*1000)).toTimeString().substring(0,5)+" for more than "+endorsement/60+" minutes!<br><br>";
-      }
-
-    lshift_date = shift_date, lcg = cg, lstartTime = startTime, lendTime = endTime;  //make the current shift as the last shift.
-    output += ".";
-    }
-    if ( /^Address:/.test(input[i]) ) {   // clients separator
-      lshift_date=read_shift(origin)[0], lcg=read_shift(origin)[1], lstartTime=read_shift(origin)[2], lendTime = read_shift(origin)[3]  //defining system start as the last shift for different clients.
-    }
-  }
-  output += "<h3>End Checking, please reload the page if you want to recheck.<h3><hr>"
-  document.getElementById("output").innerHTML = output;
-}
-
-</script>
+                    lshift_date = shift_date, lcg = cg, lstartTime = startTime, lendTime = endTime; //make the current shift as the last shift.
+                    output += ".";
+                }
+                if (/^Address:/.test(input[i])) { // clients separator
+                    lshift_date = read_shift(origin)[0], lcg = read_shift(origin)[1], lstartTime = read_shift(origin)[2], lendTime = read_shift(origin)[3] //defining system start as the last shift for different clients.
+                }
+            }
+            output += "<h3>End Checking, please reload the page if you want to recheck.<h3><hr>"
+            document.getElementById("output").innerHTML = output;
+        }
+        </script>
 </body>
+
 </html>
